@@ -80,3 +80,6 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 4. Run backend server: `python app.py`
 5. Launch frontend or open dashboard in browser
 6. Connect chatbot using Twilio sandbox
+
+## Demo Video:
+👉 [Watch the demo video here (2 minutes)](https://www.youtube.com/watch?v=Xve-M02_tSU)

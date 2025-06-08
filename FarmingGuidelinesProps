@@ -1,0 +1,4 @@
+interface FarmingGuidelinesProps {
+  weather: 'sunny' | 'cloudy' | 'rainy';  // required
+  season: 'summer' | 'monsoon' | 'winter'; // required but not being passed!
+} 

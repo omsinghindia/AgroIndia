@@ -4,6 +4,11 @@
 
 # AgroIndia - AI-Driven Crop Yield & Weather Impact Prediction System
 
+<p align="center">
+  <img src="media/graco_pg.gif" alt="Swarm-SLAM on GRACO dataset" width="48%" />
+  <img src="media/graco_pc.gif" alt="Swarm-SLAM on GRACO dataset" width="48%" />
+</p>
+
 ## 📌 Project Overview
 
 A comprehensive platform designed to empower farmers with AI-powered yield predictions, disease detection, real-time weather insights, multilingual chatbot assistance, and personalized farming guidelines. This project integrates machine learning and accessible communication tools to support decision-making and enhance agricultural productivity.

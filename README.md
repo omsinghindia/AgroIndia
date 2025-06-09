@@ -4,10 +4,7 @@
 
 # AgroIndia - AI-Driven Crop Yield & Weather Impact Prediction System
 
-<p align="center">
-  <video src="Media/Untitled video - Made with Clipchamp (4).mp4" controls autoplay loop muted width="500"></video>
-
-</p>
+  <video src="Media/Untitled video - Made with Clipchamp (4).mp4" controls autoplay loop muted width="500"></video
 
 ## 📌 Project Overview
 

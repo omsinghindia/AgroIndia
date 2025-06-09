@@ -5,8 +5,7 @@
 # AgroIndia - AI-Driven Crop Yield & Weather Impact Prediction System
 
 <p align="center">
-  <img src="media/graco_pg.gif" alt="Swarm-SLAM on GRACO dataset" width="48%" />
-  <img src="media/graco_pc.gif" alt="Swarm-SLAM on GRACO dataset" width="48%" />
+  <img src="Media/Untitled video - Made with Clipchamp.gif" alt="AgroIndia" width="48%" />
 </p>
 
 ## 📌 Project Overview

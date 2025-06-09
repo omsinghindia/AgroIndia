@@ -3,8 +3,9 @@
 **Problem Statement Name:** Predicting Crop Yields & Weather Impact for Farmers
 
 # AgroIndia - AI-Driven Crop Yield & Weather Impact Prediction System
-
-  <video src="Media/Untitled video - Made with Clipchamp (4).mp4" controls autoplay loop muted width="500"></video>
+<p align="center">
+  <img src="Media/Untitled video - Made with Clipchamp.gif" alt="AgroIndia" width="88%" />
+</p>
 
 ## 📌 Project Overview
 
